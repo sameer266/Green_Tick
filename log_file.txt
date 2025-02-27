@@ -1,0 +1,6 @@
+2024-12-22 10:45:00 - Successful login attempt from IP  127.1.2.3
+2024-12-22 10:50:15 - Unauthorized access detected from user admin
+2024-12-22 11:00:30 - Malicious activity detected: Potential SQL Injection
+2024-12-22 11:10:45 - Normal user activity detected: Login successful
+2024-12-22 11:15:00 - Failed login attempt from IP 127.0.0.1
+2024-12-22 11:30:05 - Unauthorized access attempt blocked for user guest
