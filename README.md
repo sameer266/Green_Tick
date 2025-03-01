@@ -44,7 +44,7 @@ Then enter the URL when prompted.
 ## Example Output
 ### Task 1:
 ```
-Enter the file path: logs.txt
+Enter the file path: log_file.txt
 Alert: unauthorized access attempt detected at 2025-03-01 13:15:23
 ```
 ### Task 2:
